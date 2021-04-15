@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Academics
-permalink: /academics/
+title: Publications
+permalink: /publications/
 ---
  
 # Publications
